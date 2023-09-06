@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "meri-sehat-374407",
+  "private_key_id": "182364ac8d05b8d5a036f4cd95c4b672212d3f83",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDJRS7R2Txo5Ln1\nAv7liVBDKqckXkDElsjk0nfdvWTOpRLrEZWpk9WrNfvU8JAYC3LYqRq+gRKPKEcK\nyENsjHwan4PjGM9Kt8Zm2cP3lweYDvMiBAPUoY7iESDLChDuEWnKoA/rPeWDDYId\nAaYnmr47KQMAQX2IUm845yjEXX6IZ7O70QZRXFJXqkIAf9ON43ye8EqqwURTzhUE\nnwBhMd/oAsv4oDC8V4hN1dRpey6XBFNYCwE3XdAFd4hmg8vJIr7+gmtO9lXkTdxG\n06g+1KQFx+x6a4V2K25yV+a9QC0yj1+iXMW0tXWUGHKHymM95xemFtt+3WdhLfTE\n6m2pMXcBAgMBAAECggEAA6OlmhPEfN0N47k/JKVb9yrxRL4Ti7pyPXj0w+Slyvq/\nIdL6kstihKsAN7R11ol2dSZxnlo1HLOMvUwrs+3CXLTfrJ6JOP+jrb5oRbTMZVp3\n2PibnR+itsG6hxFShwt3jztfrlA7MyhuXtnlyDeLEwTF0h5dB7b93diIKyzJmevF\n4L8Vb8E93jLdAet+vde2EmPX4wmRSDLdg0uAw8e4LjmaixXe1yYEIiEMcktxY1iA\nTUMb6kuHAlRWke2oD6n6OA9vw8rmbNENj1X2WMgOqtP2sLnmpg5AXewa77+sPfFh\nX9QjR2+mCE0KoacQpa23r0JU2FPnkfXBUZ7V33qxMQKBgQDzNVY7a4O8vmzswsC6\nEyS0dyD6u9baODaa9yW3x3Y7B/Tglw1mV0GVusZ72ymrZFuFVAin7HKVwUQ9ySa7\ngVclWRMGAIjbOSRoWSQL0oIAbuuplV5SqIi/Bv1va3XowLIir2xOO0gVkCi152CM\nZ38U7ISLHSXJeDwkuXGJ86DbTQKBgQDT2yxVMb5PSuCcJah9NtAVQffd5Kn3qQ/e\nsJNpKRMlbWMWORXwaadHAyRklGQo8QJRoaAD3z0J5+EBGwvWUG2mmaCwb8TtAvwB\nIWvYUeEf1V+2wX6JApXZE4qsEDNDA/wP+AN0U2vC+EEyNw31ySZCBx/LKZpCH/aB\nU89plQmohQKBgQCCHYjy5URnmCFCUbc2VcOPYSSdwBzkRqrAIXVmayoPzuPtvCKJ\nHCmUZ4aFAO28Kkbkf97ZqCBtiiZuP82fB0WOT6dj0KlnT5zwzrAAOzEd9jnSUn1S\nD6SJPr4b/Avq6BzlfaCeAg1ArA17tDvtIfnVQexvWLq8nLzgkO3zdgobCQKBgQCq\n+sxAxbCuFeRIoSvmQoKVZXRCJPX35v3j3+ZYjMni/vFlUhUevmY+rY6Fji13zWrt\nrt+RwG1mvTmextE62hZkysAhJVNtZWc1EmATaaGjK3Xf7THOKcP+OgNE8p4si962\nlJdVHq5t4CXd/QjLQNgbmdxS/vR8QYeUwKs4rwvocQKBgQDHe5KvwFG04NYlT8aS\nTxaBwn1kfq3TmQbfzuPNSUV4Fgn5XDHnvcg5+yJvZhkPVG1TR05tIH4LmO5bnHyq\nzGg8qPo+VNfh87XDPNwkgI2Ao4vvzBJ7L0LnlDRe4RS3O4bqxM10jKFEtA122uq7\nt8BFSpjBtvoGWLlmCkkRdZP+/g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheets@meri-sehat-374407.iam.gserviceaccount.com",
+  "client_id": "109104454808109265542",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheets%40meri-sehat-374407.iam.gserviceaccount.com"
+}

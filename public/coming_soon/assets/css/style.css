@@ -1,0 +1,173 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1rem;
+  line-height: 29px;
+  font-family: "Inter", sans-serif;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+  font-family: "Inter", sans-serif;
+}
+
+button {
+    border: none;
+    outline: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  font-family: "Nunito", sans-serif;
+}
+
+.wrapper {
+  background-color: #d5fffc;
+  background-image: url("../images/bg-2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.social-container {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  padding: 30px 0;
+  justify-content: flex-end;
+}
+
+.social-container .social-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 40px;
+  background-color: #2abcc1;
+  border-radius: 9px;
+  transition: all 0.3s ease-in-out;
+}
+
+.social-container .social-icon:hover {
+  background-color: #f16085;
+}
+
+.social-container .social-icon i {
+  color: #fff;
+  font-size: 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+.social-container .social-icon:hover i {
+  transform: none;
+}
+
+.comming-soon {
+  min-height: 100vh;
+  position: relative;
+}
+
+.comming-soon .subscription_box {
+  border-radius: 10px;
+  overflow: hidden;
+  min-height: 55px;
+}
+
+.comming-soon input.form-control {
+  font-size: 0.813rem;
+  border: none;
+  min-height: 55px;
+}
+.comming-soon .input-group-append {
+  background-color: #d5fffc;
+  border: none;
+}
+.comming-soon .input-group-append .input-group-text {
+  border: none;
+  background-color: #29bcc1;
+  min-height: 55px;
+  min-width: 56px;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.comming-soon .input-group-append .input-group-text:hover {
+  background-color: #f16085;
+}
+
+.btn-filled a {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  width: 100%;
+  font-size: 0.813rem;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+  border-radius: 10px;
+  min-height: 55px;
+  background-color: #f16085;
+  margin-top: 50px;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn-filled a:hover {
+  background-color: #29bcc1;
+}
+
+.heading-3 {
+  color: #434343;
+  font-size: 1.375rem;
+  max-width: 75%;
+}
+
+.wrapper .mark,
+.wrapper .women {
+  position: absolute;
+  z-index: 1;
+}
+
+.wrapper .women {
+  right: -100px;
+  top: 10rem;
+}
+.wrapper .mark {
+  bottom: 0;
+  left: 0;
+}
+
+.comming-soon .logo img {
+  margin-bottom: 30px;
+  width: 100%;
+  max-width: 450px;
+}
+
+.content > div:nth-child(2) {
+  margin-left: 70px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+@media (max-width: 575.98px) {
+  .heading-3,
+  .comming-soon .logo img {
+    max-width: 100%;
+  }
+  .content > div:nth-child(2) {
+    margin-left: 0;
+  }
+  .comming-soon .content {
+    margin-top: 20px;
+  }
+}

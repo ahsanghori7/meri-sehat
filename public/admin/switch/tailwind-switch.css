@@ -1,0 +1,58 @@
+.rounded-full {
+    border-radius: 9999px;
+}
+
+.sm\:rounded-full {
+    border-radius: 9999px;
+}
+
+
+.inline-flex {
+    display: inline-flex;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.align-middle {
+    vertical-align: middle;
+}
+
+.bg-green-400 {
+    --tw-bg-opacity: 1;
+    background-color: rgba(52, 211, 153, var(--tw-bg-opacity));
+}
+
+
+.bg-white {
+    --tw-bg-opacity: 1;
+    background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
+}
+
+.bg-red-400 {
+    --tw-bg-opacity: 1;
+    background-color: rgba(248, 113, 113, var(--tw-bg-opacity));
+}
+
+
+.shadow {
+    --tw-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+.w-px {
+    width: 1px;
+}
+
+.h-px {
+    height: 1px;
+}
+
+.opacity-0 {
+    opacity: 0;
+}
+
+.absolute {
+    position: absolute;
+}

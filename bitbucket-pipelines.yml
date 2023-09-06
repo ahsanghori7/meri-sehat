@@ -1,0 +1,12 @@
+options:
+  max-time: 10
+pipelines:
+    branches:  # Pipelines that run automatically on a commit to a branch
+      development-latest:
+        - step:
+           script:
+            - ssh ubuntu@3.0.54.60 'cd /var/www/html/portal/;git pull; echo "Changes deployed!"'
+      release/doctor-portal-earning-bugfixes:
+        - step:
+           script:
+            - ssh ubuntu@3.0.54.60 'cd /var/www/html/portal/;git pull; echo "Changes deployed!"'  
